@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>MyHomepage</title>
+        <meta http-equiv="Content-Language" content="Microsoft YaHei">
+        <meta http-equiv="imagetoolbar" content="no">
+        <meta name="MSSmartTagsPreventParsing" content="true">
+        <link rel="stylesheet" href="./global.css">
+        <link rel="stylesheet" href="./font-awesome.min.css">
+    </head>
+
+    <body>
+    
+        <center>
+            <form action="http://www.baidu.com/baidu" target="_blank">
+            <tr><td>
+            <input name=tn type=hidden value=baidu>
+            <a href="http://www.baidu.com/"><img src="https://gss0.bdstatic.com/70cFsjip0QIZ8tyhnq/img/logo-80px.gif" alt="Baidu" align="bottom" border="0"></a>
+            <input type=text name=word class="textc">
+            <input type="submit" value="百度搜索" class="bottonc">
+            </td></tr></table>
+            </form>
+        </center>
+        
+        <div class="global-body">
+            <div class="card-dwg-hrefc">
+            
+                <div class="card-dwg-title">
+                <span><i class="icon fa fa-mortar-board fa-lg fa-fw"></i>写论文必备</span>
+                </div>
+
+                <a class="card-dwg-href" href="http://baidu.com/" target="_blank">
+                <div class="card-dwg-href-div">
+                    <div class="card-dwg-href-img" style="background-image: url(&#39;https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1556005247&di=1f635852043cc2d1a49e9d1e3dc69fc5&src=http://nwzimg.wezhan.cn/contents/sitefiles2002/10012495/images/606926.jpg&#39;);"></div>
+                    <div class="card-dwg-href-name">百度搜索</div>
+                    <div class="card-dwg-href-abstract" title="百度查询">百度查询</div>
+                </div>
+                </a>
+            </div>
+        </div>
+    </body>
+</html>

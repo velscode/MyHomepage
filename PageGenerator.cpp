@@ -16,6 +16,8 @@ int main()
 	
 	fp_w = fopen("MyHomepage.html","w");
 	
+	fscanf(fp_r,"%s",temp);
+	
 	fprintf(fp_w,"\
 <!DOCTYPE html>\n\
 <html>\n\
@@ -30,8 +32,13 @@ int main()
         <link rel=\"stylesheet\" href=\"./font-awesome.min.css\">\n\
     </head>\n\n\
     <body>\n\
+    <body background=\"%s\"\n\
+	style=\" background-repeat:no-repeat;\n\
+	background-size:100% 100%;\n\
+	background-attachment: fixed;\"\n\
+	>\n\
         <div class=\"global-body\">\n\
-            <div class=\"card-dwg-hrefc\">\n");
+            <div class=\"card-dwg-hrefc\">\n",temp);
 	
 	while( !feof(fp_r) )
 	{

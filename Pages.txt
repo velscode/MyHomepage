@@ -14,15 +14,53 @@ https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=
 百度
 查询网站
 
+TITLE 校园网
+
+PAGES
+https://www.guet.edu.cn/lib/
+https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556633069&di=aa2ecc635bddf940c7b3cc70897e8c38&imgtype=jpg&er=1&src=http%3A%2F%2Fepaper.gmw.cn%2Fgmrb%2Fimages%2F2018-05%2F26%2F04%2F2828304_donghf_1527255544840_b.jpg
+图书馆
+无
+
+PAGES
+http://bkjw2.guet.edu.cn/student/public/login.asp?mCode=000703
+https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556633069&di=aa2ecc635bddf940c7b3cc70897e8c38&imgtype=jpg&er=1&src=http%3A%2F%2Fepaper.gmw.cn%2Fgmrb%2Fimages%2F2018-05%2F26%2F04%2F2828304_donghf_1527255544840_b.jpg
+选课系统
+无
+
+PAGES
+http://172.16.64.8/arrange/public/login.asp?mCode=000702
+https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556633069&di=aa2ecc635bddf940c7b3cc70897e8c38&imgtype=jpg&er=1&src=http%3A%2F%2Fepaper.gmw.cn%2Fgmrb%2Fimages%2F2018-05%2F26%2F04%2F2828304_donghf_1527255544840_b.jpg
+教务管理
+无
+
+PAGES
+http://gliet.co.cnki.net/Login.html?r=1543471504943
+https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556633069&di=aa2ecc635bddf940c7b3cc70897e8c38&imgtype=jpg&er=1&src=http%3A%2F%2Fepaper.gmw.cn%2Fgmrb%2Fimages%2F2018-05%2F26%2F04%2F2828304_donghf_1527255544840_b.jpg
+毕设论文系统
+无
+
 TITLE 编程相关
+
+PAGES
+http://codeforces.com/
+./img/logo_codeforces.jpg
+Codeforces
+在线编程竞赛网站
 
 PAGES
 http://acm.hdu.edu.cn/
 https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2914887327,667118234&fm=26&gp=0.jpg
 杭电OJ
-一个ACM算法竞赛网站
+刷题！刷题！刷题！
 
-PAGES
+PAGES 
+https://www.nowcoder.com/
+https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556038815545&di=b6b0bead808916cebf10b9e33b0ae16e&imgtype=0&src=http%3A%2F%2Fandroid-artworks.25pp.com%2Ffs08%2F2018%2F08%2F13%2F11%2F110_7be4dec2aa0e9f711fce7066da7a619c_con.png
+牛客网
+刷题、答题、交流、应聘
+
+PAGES 
 http://poj.org/
 https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3224212714,2805046903&fm=26&gp=0.jpg
 北大OJ

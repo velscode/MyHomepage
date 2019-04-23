@@ -76,8 +76,8 @@ int main()
 					,temp,temp);	
 					
 			fprintf(fp_w,"\
-                </div>\
-                </a>");	
+                </div>\n\
+                </a>\n");	
 		}
 		else
 		{

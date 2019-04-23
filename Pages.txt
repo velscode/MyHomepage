@@ -1,13 +1,20 @@
-D:\1_Personal_Files\Pictures\Desktop_Background\d8072aaab1c8c6c04456b900f1f6ffb3.jpg
+.\background.jpg
 
-TITLE
-常用网站
+TITLE 置顶常用
+
+PAGES
+http://10.32.254.11
+https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556633069&di=aa2ecc635bddf940c7b3cc70897e8c38&imgtype=jpg&er=1&src=http%3A%2F%2Fepaper.gmw.cn%2Fgmrb%2Fimages%2F2018-05%2F26%2F04%2F2828304_donghf_1527255544840_b.jpg
+出校控制器
+无
 
 PAGES
 http://baidu.com/
 https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1556005247&di=1f635852043cc2d1a49e9d1e3dc69fc5&src=http://nwzimg.wezhan.cn/contents/sitefiles2002/10012495/images/606926.jpg
 百度
 查询网站
+
+TITLE 编程相关
 
 PAGES
 http://acm.hdu.edu.cn/
@@ -21,15 +28,7 @@ https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3224212714,2805046903&
 北大OJ
 一个很好的ACM算法训练网站
 
-PAGES
-www.guet.edu.com
-https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2236833951,3054038099&fm=26&gp=0.jpg
-桂电首页
-我的学校首页
-
-
-TITLE
-学习资源
+TITLE 学习资源
 
 PAGES
 http://www.icourse163.com/

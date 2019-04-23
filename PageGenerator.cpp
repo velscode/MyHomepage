@@ -71,6 +71,9 @@ int main()
 					,temp);	
 		
 			fscanf(fp_r,"%s",temp);
+			if(strcmp(temp,"нч")==0)
+				strcpy(temp,"");
+				
 			fprintf(fp_w,"\
                     <div class=\"card-dwg-href-abstract\" title=\"%s\">%s</div>\n"
 					,temp,temp);	

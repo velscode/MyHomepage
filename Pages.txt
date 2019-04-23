@@ -50,6 +50,12 @@ https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556633069&d
 TITLE 编程相关
 
 PAGES
+https://home.console.aliyun.com/new?spm=5176.8142029.388261.3.3dbd6d3eMsVQyF#/
+./img/logo_aly.jpg
+阿里云控制台
+为了无法计算的价值
+
+PAGES
 http://codeforces.com/
 ./img/logo_codeforces.jpg
 Codeforces
@@ -76,7 +82,45 @@ https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3224212714,2805046903&
 TITLE 学习资源
 
 PAGES
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+./img/logo_python.jpg
+Python
+廖雪峰老师的Python入门教程
+
+PAGES
 http://www.icourse163.com/
 https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556614242&di=21256bd7f593fb22f9d7e7a2ed68c36d&imgtype=jpg&er=1&src=http%3A%2F%2Fa0.att.hudong.com%2F73%2F52%2F20300542724313140971526245341.jpg
 中国大学MOOC
 海量免费MOOC平台
+
+PAGES
+https://segmentfault.com/
+./img/logo_sf.jpg
+思否
+学习技能、解决问题
+
+TITLE 博客
+
+PAGES
+https://www.cnblogs.com/velscode/
+./img/logo_cnblogs.jpg
+技术博客
+总结、提升
+
+PAGES
+https://www.cnblogs.com/velscode/
+./img/logo_github.jpg
+Github
+拥抱开源
+
+PAGES 
+https://mp.weixin.qq.com/cgi-bin/loginpage?t=wxm2-login&lang=zh_CN
+./img/logo_wechar.jpg
+微信公众平台
+塑造个人品牌
+
+PAGES 
+http://md.aclickall.com/
+./img/logo_wechar.jpg
+md2ll
+将Markdown笔记转换为公众号图文
